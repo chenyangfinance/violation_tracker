@@ -1,6 +1,6 @@
 # violation_tracker
 
-This is a Python file that download records from Violation Tracker Database.
+This is a Python file that download records from Violation Tracker Database. Basically, we can just check company names on its website, i.e., totally open-access. https://www.goodjobsfirst.org/violation-tracker
 
 "Violation Tracker, produced by the Corporate Research Project of Good Jobs First, brings together enforcement data obtained from more than 400 federal, state and local regulatory agencies with responsibility for banking, consumer protection, environmental, wage & hour, unfair labor practice, health and safety, workplace discrimination and other matters. We also collect information from the Justice Department on cases referred to it by these agencies as well as cases it initiated on offenses such as price-fixing, foreign bribery, false claims, civil rights abuses and tax evasion."
 
